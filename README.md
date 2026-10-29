@@ -1,5 +1,7 @@
 # Multimodal Construction Intelligence Platform
 
+![AI Maintained](https://img.shields.io/badge/readme-AI%20maintained-blue)
+
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://construction-intelligence-platform-gules.vercel.app)
 
 **Live Web App:** [https://construction-intelligence-platform-gules.vercel.app](https://construction-intelligence-platform-gules.vercel.app)  
@@ -18,10 +20,8 @@ Python 3.9+ is recommended.
 
 ```bash
 # Clone the repository
-git clone https://github.com/santusht06/construction-intelligence-platform.git
+git clone [https://github.com/santusht06/construction-intelligence-platform.git](https://github.com/santusht06/construction-intelligence-platform.git)
 cd construction-intelligence-platform
-
-# Create and activate virtual environment
 python -m venv .venv
 
 # On macOS/Linux:
