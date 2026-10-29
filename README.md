@@ -22,6 +22,8 @@ Python 3.9+ is recommended.
 # Clone the repository
 git clone [https://github.com/santusht06/construction-intelligence-platform.git](https://github.com/santusht06/construction-intelligence-platform.git)
 cd construction-intelligence-platform
+
+# Create and activate virtual environment
 python -m venv .venv
 
 # On macOS/Linux:
